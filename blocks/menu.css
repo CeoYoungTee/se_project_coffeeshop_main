@@ -14,9 +14,9 @@
   margin: 0 0 24px;
   font-family: "Inter";
   font-style: normal;
-  font-weight: bold;
-  font-size: 20px;
-  line-height: 30px;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
 }
 
 .menu__subtitle {
@@ -26,6 +26,8 @@
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
+  max-width: 780px;
+  text-align: center;
 }
 
 .menu__cards {

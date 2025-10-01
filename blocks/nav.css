@@ -2,6 +2,7 @@
   display: flex;
   justify-content: space-between;
 }
+
 .nav__links {
   margin: 8px 0 0;
   padding: 0;
@@ -9,6 +10,7 @@
   display: flex;
   column-gap: 20px;
 }
+
 .nav__link {
   font-family: "Inter", "Arial", sans-serif;
   font-style: normal;
@@ -17,11 +19,13 @@
   line-height: 20px;
   text-decoration: none;
   color: #000000;
-  opacity: 0.5;
+  transition: opacity 0.3s ease;
 }
+
 .nav__link:hover {
   opacity: 0.5;
 }
+
 .nav__logo {
   width: 105px;
   height: 39px;

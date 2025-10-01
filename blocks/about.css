@@ -11,6 +11,7 @@
 }
 .about__title {
   max-width: 251px;
+  font-family: "Inter";
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
@@ -26,6 +27,8 @@
 }
 .about__paragraph {
   font-family: "Noto Serif", "Times New Roman", serif;
+  font-style: normal;
+  font-weight: normal;
   font-size: 20px;
   line-height: 30px;
   margin: 0;
